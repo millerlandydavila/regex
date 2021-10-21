@@ -19,3 +19,4 @@ nombre propio
 `^[A-Z][a-z]{3,}\s?[A-Z]?[a-z]{0,}`
 
 `^\d+::([\w\s:,\(\)'\.\-&!\/]+)\s\((\d\d\d\d)\)::.*$`
+Esto es una prueba
